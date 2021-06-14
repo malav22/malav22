@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @malav22
+- 👋 Hi, I’m Malav Thakkar
 - 👀 I’m interested in competitive programming , information security and web developing.
-- 🌱 I’m currently learning Ethical Hacking , Competitive programming in c++ , python , linux command line input and basic web developing.
+- 🌱 I’m currently learning Ethical Hacking , Competitive programming in c++ , python , C , linux command line input and basic web developing.
 - 💞️ I’m looking to collaborate on any projects involving above skills.
 - 📫 How to reach me : 20je0526@cse.iitism.ac.in
 
