@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m <b>Malav Thakkar</b>
-- 
+
 - 👨‍💻 First Year Student at <b>IIT (ISM)</b>.
 
 - 🔭 I’m currently working on <b>Web Development Skills</b>.
@@ -10,11 +10,11 @@
 - 👯 I’m looking to collaborate on all types of Projects
 
 - 👀 I’m interested in <b>competitive programming , information security and web development</b>.
-- 
+
 - 🌱 I’m currently learning <b>Ethical Hacking , Competitive programming in c++ , Python , C , linux(CLI) and Web development.</b>
-- 
+
 - 💞️ I’m looking to collaborate on any projects involving above skills.
-- 
+
 - 📫 How to reach me : 20je0526@cse.iitism.ac.in
 
 </div>
